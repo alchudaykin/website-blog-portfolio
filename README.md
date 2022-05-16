@@ -12,5 +12,6 @@ https://alchudaykin.github.io/website-blog-portfolio/
 ---
 - HTML
 - CSS
+- LESS
 - JavaScript
 - JQuery
